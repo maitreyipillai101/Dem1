@@ -11,13 +11,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Maitreyi Pillai is a third year doctoral student of political Science at the University of Texas at Dallas.\n\n1 + 1\n\n[1] 2\n\n\nI usually enjoy the datascience classes."
+    "text": "Maitreyi Pillai is a third year doctoral student of political Science at the University of Texas at Dallas. Her research interests lie at the intersection of International Conflict and Human Rights. Especially the interaction of both these concepts with international organizations adds another dimension of research that interests her."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Maitreyi Pillai",
     "section": "",
-    "text": "Maitreyi Pillai Political Science UTD.\n\n1 + 1\n\n[1] 2"
+    "text": "Maitreyi Pillai Political Science UTD."
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "assignment 1",
+    "section": "",
+    "text": "This page will have all my homework submissions"
+  },
+  {
+    "objectID": "assignment 1.html",
+    "href": "assignment 1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Creating a Qualtrics Survey\n\nAnalysis of the survey\na. The survey is structured in an order such that the repondent sees only one question at a time.\nb. The questionnaire is composed of many multiple choice questions, questions that have binary responses but none that has select as many that apply.\nc. The order of the questions is weird. For instance, one of the instructions was to apply the skip logic on Q4 to Q7 if the answer for the fourth was a no. However, profanity and nudity has got nothing to do with the responses of actual costs or an estimation of the software costs in general. They could be ordered in a more meaningful way, that has a more refined flow to it.\nFurther Assignment: I was not able to find the “Diversity and Inclusiveness Survey” in my qualtrics library."
+  },
+  {
+    "objectID": "assignment2.html",
+    "href": "assignment2.html",
+    "title": "assignment2",
+    "section": "",
+    "text": "I will post the second assignment here."
+  },
+  {
+    "objectID": "assignment1_6302.html",
+    "href": "assignment1_6302.html",
+    "title": "assignment1_6302.qmd",
+    "section": "",
+    "text": "Using Qualtrics, an online survey platform, to apply sound survey design principles provides a valuable opportunity to practice fundamental social research techniques. Below, I'll describe a sample survey, inspired by pedagogical goals, which was designed for distribution through Qualtrics.\n\nTo start, I downloaded the ‘Movie Rental’ .qsf file from GitHub, then uploaded it and imported it into a new survey project with the same name. I customized the survey by adding page breaks, updating the design with a fresh theme, and implementing skip logic to create dependencies between questions.\nThe survey starts with with questions about movie preferences and viewing habits, followed by demographic questions at the end. This is a standard approach because placing routine or less engaging questions at the end tends to improve response rates by keeping participants interested throughout the survey."
+  },
+  {
+    "objectID": "assignment2_6302.html",
+    "href": "assignment2_6302.html",
+    "title": "assignment2_6302",
+    "section": "",
+    "text": "As we can note the search in trump sees a harsh low and a harsh high between 21.25h and 21.35h\n\nAs we can see the above visualization of the search of Kamala Harris over the states in the United States of America. The district of Columbia has the highest searches followed by Georgia, Maryland, California and Texas. It would be interesting to find why these countries."
   }
 ]
