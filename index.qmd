@@ -1,9 +1,8 @@
 ---
 title: "Maitreyi Pillai"
+format: 
+  html:
+    theme: "flatly"
 ---
 
 Maitreyi Pillai Political Science UTD.
-
-```{r}
-1 + 1
-```

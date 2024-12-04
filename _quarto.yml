@@ -8,10 +8,29 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Home 
-      - href: research.qmd
-        text: Research
-
+        text: About
+      - text: "EPPS 6356"
+        menu:
+          - href: assignment1.qmd
+            text: Assignment_1
+          - href: assignment2.qmd
+            text: Assignment_2
+          - href: assignment3.qmd
+            text: Assignment_3
+      - text: "EPPS 6302"
+        menu:
+          - href: assignment1_6302.qmd
+            text: Assignment_1
+          - href: assignment2_6302.qmd
+            text: Assignment_2
+          - href: assignment3_6302.qmd
+            text: Assignment_3
+          - href: assignment4_6302.qmd
+            text: Assignment_4
+          - href: assignment5_6302.qmd
+            text: Assignment_5
+    
+             
 format:
   html:
     theme: united
